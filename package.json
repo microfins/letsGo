@@ -29,5 +29,13 @@
   "bugs": {
     "url": "https://github.com/Beg-in/letsGo/issues"
   },
-  "homepage": "https://useletsgo.com"
+  "homepage": "https://useletsgo.com",
+  "devDependencies": {
+    "frow": "file:frow",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.1",
+    "normalize-css": "^2.3.1",
+    "normalize.css": "^4.1.1"
+  }
 }
